@@ -1,0 +1,31 @@
+.amogusus-div {
+  background-color: #1c1d21;
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.barber-info-div {
+  border: solid 3px white;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+}
+
+.barber-info {
+  margin-left: 10px;
+  font-size: 24px;
+  color: #4fe3c3;
+  font-family: "Space Mono", monospace;
+}
+
+.ma-button {
+  font-size: 24px;
+  padding: 15px 20px;
+  border-radius: 40px;
+  border: 2px solid purple;
+  background-color: white;
+  transition-duration: 0.4s;
+  margin: 0px 15px;
+  cursor: pointer;
+}

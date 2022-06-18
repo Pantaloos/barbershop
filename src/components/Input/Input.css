@@ -1,0 +1,17 @@
+.ma-input {
+  padding: 10px 0px;
+  background: transparent;
+  font-size: 24px;
+  background-color: white;
+}
+.text-above {
+  color: lightgrey;
+  font-size: 24px;
+}
+
+.main-div {
+  width: fit-content;
+  padding: 15px 15px;
+  margin: 0px;
+  display: inline-block;
+}

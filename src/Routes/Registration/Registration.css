@@ -1,0 +1,113 @@
+.barber-div {
+  width: 50vw;
+  height: 50vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.register-div {
+  padding: 25vh 25vw 25vh 25vw;
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.user-register-btn {
+  font-size: 24px;
+  padding: 15px 20px;
+  border-radius: 40px;
+  border: 2px solid purple;
+  background-color: white;
+  transition-duration: 0.4s;
+  margin-left: 0px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.user-register-btn:hover {
+  background-color: purple;
+  color: white;
+}
+
+.barber-register-btn {
+  font-size: 24px;
+  padding: 15px 20px;
+  border-radius: 40px;
+  border: 2px solid purple;
+  background-color: white;
+  transition-duration: 0.4s;
+  margin-left: 0px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.barber-register-btn:hover {
+  background-color: purple;
+  color: white;
+}
+
+.abc {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: #1c1d21;
+}
+
+.ma-input {
+  margin-top: 20px;
+  padding: 10px 0px;
+  background: transparent;
+  font-size: 24px;
+  background-color: white;
+}
+.text-above {
+  color: lightgrey;
+  font-size: 24px;
+}
+
+.main-div {
+  width: fit-content;
+  padding: 15px 15px;
+  margin: 0px;
+  display: inline-block;
+}
+
+.ma-button {
+  font-size: 24px;
+  padding: 15px 20px;
+  border-radius: 40px;
+  border: 2px solid purple;
+  background-color: white;
+  transition-duration: 0.4s;
+  margin: 0px 15px;
+  cursor: pointer;
+}
+
+.mbtnpadding {
+  margin: 15px 15px;
+}
+
+.ma-button:hover {
+  background-color: purple;
+  color: white;
+}
+
+.login-button {
+  align-self: center;
+  width: 50%;
+  border-radius: 40px;
+  margin: 36px 110px;
+}
+
+.above-buttons {
+  border-radius: 40px;
+  width: 35%;
+}
+
+.xyz {
+  max-width: 15vw;
+  max-height: 6vh;
+}

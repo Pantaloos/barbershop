@@ -1,0 +1,31 @@
+.ma-button {
+  font-size: 24px;
+  padding: 15px 20px;
+  border-radius: 40px;
+  border: 2px solid purple;
+  background-color: white;
+  transition-duration: 0.4s;
+  margin: 0px 15px;
+  cursor: pointer;
+}
+
+.mbtnpadding {
+  margin: 15px 15px;
+}
+
+.ma-button:hover {
+  background-color: purple;
+  color: white;
+}
+
+.login-button {
+  align-self: center;
+  width: 50%;
+  border-radius: 40px;
+  margin: 36px 110px;
+}
+
+.above-buttons {
+  border-radius: 40px;
+  width: 35%;
+}
